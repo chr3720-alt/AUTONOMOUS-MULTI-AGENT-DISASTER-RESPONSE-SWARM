@@ -1,0 +1,37 @@
+# 🚧 Project Status
+
+> **Current Development Stage:** Prototype Completed ✅
+
+| Component | Status |
+|-----------|--------|
+| 📐 System Design | ✅ Completed |
+| 🔧 Hardware Assembly | ✅ Completed |
+| 🤖 Drone Prototype | ✅ Completed |
+| 🚗 Rover Prototype | ✅ Completed |
+| 🔌 Sensor Integration | ✅ Completed |
+| 💻 Software Development | ✅ Completed |
+| 🧠 AI Integration | ✅ Completed |
+| 📡 Communication Setup | ✅ Completed |
+| ⚙️ System Integration | ✅ Completed |
+| ▶️ Basic Working Demonstrated | ✅ Completed |
+| 🧪 Performance Evaluation | ⏳ In Progress |
+| 📊 Experimental Validation | ⏳ Pending |
+| 📈 Accuracy & Performance Metrics | ⏳ Pending |
+| 🌍 Field Testing | ⏳ Pending |
+| 📄 Documentation | 🔄 Ongoing |
+
+---
+
+## Current Progress
+
+The hardware assembly, software integration, and core functionality of the drone–rover disaster response system have been successfully completed. The prototype demonstrates autonomous operation, AI-based victim detection, communication between agents, and coordinated rescue workflows.
+
+The next phase focuses on:
+
+- 🧪 Performance testing
+- 📊 Accuracy evaluation
+- 🌍 Real-world field validation
+- ⚡ System optimization
+- 📈 Benchmark analysis and result documentation
+
+> **Status:** Prototype functional. Performance evaluation and testing are currently in progress.
