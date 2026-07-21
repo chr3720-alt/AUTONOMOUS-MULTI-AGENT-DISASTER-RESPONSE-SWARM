@@ -1,0 +1,63 @@
+# 📋 Requirements
+
+## 🔧 Hardware Components
+
+### Controllers
+- ESP32-S3
+- ESP32-CAM
+- ESP32 DevKit
+
+### Sensors
+- Camera Module
+- GPS Module
+- MPU6050 (IMU)
+- LiDAR Sensor
+- Thermal Camera
+- Ultrasonic Sensor
+
+### Communication
+- LoRa SX1278 Module
+
+### Drone Components
+- Drone Frame & Propellers
+- Brushless DC Motors
+- Electronic Speed Controllers (ESCs)
+
+### Rover Components
+- DC Geared Motors
+- Motor Driver (L298N / TB6612FNG)
+
+### Power System
+- LiPo Battery
+- Power Distribution Board (PDB)
+- Voltage Regulator (BEC / DC-DC Buck Converter)
+
+---
+
+## 💻 Software Requirements
+
+- Ubuntu 22.04 LTS
+- ROS2 Humble
+- PX4 Autopilot
+- Gazebo Simulator
+- QGroundControl
+- Arduino IDE
+- Python 3.10+
+- OpenCV
+- YOLOv11
+
+---
+
+## 📡 Communication
+
+- ROS2 DDS
+- LoRa
+- Wi-Fi
+
+---
+
+## 🛠 Development Tools
+
+- Visual Studio Code
+- Git
+- GitHub
